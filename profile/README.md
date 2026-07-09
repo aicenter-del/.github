@@ -50,8 +50,42 @@ We are committed to open science by providing public data assets:
 ---
 
 ## 👥 Governance Structure
-* **Chair:** Rosni Lumbantoruan, Ph.D. (Associate Professor in AI & Education — `rosni@del.ac.id`)
-* **Secretary:** Oppir Hutapea, S.Tr.Kom., M.Kom. (Lecturer in Educational Technology — `oppir@del.ac.id`)
+* **Chair:** Rosni Lumbantoruan, Ph.D.
+  * ![ORCID Logo](https://info.orcid.org/wp-content/uploads/2021/12/orcid_16x16.gif) [0000-0001-7271-5062](https://orcid.org/0000-0001-7271-5062)
+  * <img src="https://sinta.kemdiktisaintek.go.id/authorverification/public/images/favicon_sinta.png" width="16"> [5992645](https://sinta.kemdiktisaintek.go.id/authors/profile/5992645)
+* **Secretary:** Oppir Hutapea, S.Tr.Kom., M.Kom.
+  * ![ORCID Logo](https://info.orcid.org/wp-content/uploads/2021/12/orcid_16x16.gif) [0009-0008-6893-6725](https://orcid.org/0009-0008-6893-6725)
+  * <img src="https://sinta.kemdiktisaintek.go.id/authorverification/public/images/favicon_sinta.png" width="16"> [6865256](https://sinta.kemdiktisaintek.go.id/authors/profile/6865256)
+* **Member:** Prof. Dr. Arnaldo Marulitua Sinaga, ST., M.InfoTech.
+  * ![ORCID Logo](https://info.orcid.org/wp-content/uploads/2021/12/orcid_16x16.gif) [0000-0002-0985-805X](https://orcid.org/0000-0002-0985-805X)
+  * <img src="https://sinta.kemdiktisaintek.go.id/authorverification/public/images/favicon_sinta.png" width="16"> [6003403](https://sinta.kemdiktisaintek.go.id/authors/profile/6003403)
+* **Member:** Dr. Johannes Harungguan Sianipar, S.T., M.T.
+  * ![ORCID Logo](https://info.orcid.org/wp-content/uploads/2021/12/orcid_16x16.gif) [0000-0002-4934-1696](https://orcid.org/0000-0002-4934-1696)
+  * <img src="https://sinta.kemdiktisaintek.go.id/authorverification/public/images/favicon_sinta.png" width="16"> [6033818](https://sinta.kemdiktisaintek.go.id/authors/profile/6033818)
+* **Member:** Arie Satia Dharma, S.T, M.Kom.
+  * ![ORCID Logo](https://info.orcid.org/wp-content/uploads/2021/12/orcid_16x16.gif) [0000-0002-6129-3869](https://orcid.org/0000-0002-6129-3869)
+  * <img src="https://sinta.kemdiktisaintek.go.id/authorverification/public/images/favicon_sinta.png" width="16"> [6127565](https://sinta.kemdiktisaintek.go.id/authors/profile/6127565)
+* **Member:** Humasak Tommy Argo Simanjuntak, ST, M.ISD
+  * ![ORCID Logo](https://info.orcid.org/wp-content/uploads/2021/12/orcid_16x16.gif) [0000-0002-3294-6701](https://orcid.org/0000-0002-3294-6701)
+  * <img src="https://sinta.kemdiktisaintek.go.id/authorverification/public/images/favicon_sinta.png" width="16"> [6034697](https://sinta.kemdiktisaintek.go.id/authors/profile/6034697)
+* **Member:** Samuel Indra Gunawan Situmeang, S.TI., M.Sc.
+  * ![ORCID Logo](https://info.orcid.org/wp-content/uploads/2021/12/orcid_16x16.gif) [0000-0003-3070-0932](https://orcid.org/0000-0003-3070-0932)
+  * <img src="https://sinta.kemdiktisaintek.go.id/authorverification/public/images/favicon_sinta.png" width="16"> [6722501](https://sinta.kemdiktisaintek.go.id/authors/profile/6722501)
+* **Member:** Junita Amalia, S.Pd., M.Si
+  * ![ORCID Logo](https://info.orcid.org/wp-content/uploads/2021/12/orcid_16x16.gif) [0000-0002-9803-6428](https://orcid.org/0000-0002-9803-6428)
+  * <img src="https://sinta.kemdiktisaintek.go.id/authorverification/public/images/favicon_sinta.png" width="16"> [6681262](https://sinta.kemdiktisaintek.go.id/authors/profile/6681262)
+* **Member:** Herimanto, S.Kom., M.Kom
+  * ![ORCID Logo](https://info.orcid.org/wp-content/uploads/2021/12/orcid_16x16.gif) [0009-0003-7400-9999](https://orcid.org/0009-0003-7400-9999)
+  * <img src="https://sinta.kemdiktisaintek.go.id/authorverification/public/images/favicon_sinta.png" width="16"> [6847715](https://sinta.kemdiktisaintek.go.id/authors/profile/6847715)
+* **Member:** Tegar Arifin Prasetyo, S.Si., M.Si.
+  * ![ORCID Logo](https://info.orcid.org/wp-content/uploads/2021/12/orcid_16x16.gif) [0000-0001-8058-7961](https://orcid.org/0000-0001-8058-7961)
+  * <img src="https://sinta.kemdiktisaintek.go.id/authorverification/public/images/favicon_sinta.png" width="16"> [6754785](https://sinta.kemdiktisaintek.go.id/authors/profile/6754785)
+* **Member:** Rudy Chandra, S.Kom., M.Kom
+  * ![ORCID Logo](https://info.orcid.org/wp-content/uploads/2021/12/orcid_16x16.gif) [0000-0002-2267-6365](https://orcid.org/0000-0002-2267-6365)
+  * <img src="https://sinta.kemdiktisaintek.go.id/authorverification/public/images/favicon_sinta.png" width="16"> [6789867](https://sinta.kemdiktisaintek.go.id/authors/profile/6789867)
+* **Member:** Chandro Pardede, S.Kom., M.Sc.
+  * ![ORCID Logo](https://info.orcid.org/wp-content/uploads/2021/12/orcid_16x16.gif) [0009-0004-2315-2389](https://orcid.org/0009-0004-2315-2389)
+  * <img src="https://sinta.kemdiktisaintek.go.id/authorverification/public/images/favicon_sinta.png" width="16"> [6891442](https://sinta.kemdiktisaintek.go.id/authors/profile/6891442)
 
 ---
 
